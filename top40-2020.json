@@ -1,0 +1,55 @@
+{"children":
+
+  [
+
+  {"name":"boss1","children":
+  [
+    {"name":"DaBaby","group":"R&B","value":83,"colname":"level3"},
+    {"name":"The Kid LAROI","group":"R&B","value":94,"colname":"level3"},
+    {"name":"The Kid LAROI","group":"R&B","value":85,"colname":"level3"},
+    {"name":"The Kid LAROI","group":"R&B","value":83,"colname":"level3"}
+  ]
+  ,"colname":"level2"},
+
+  {"name":"boss2","children":
+  [
+    {"name":"mister_e","group":"C","value":14,"colname":"level3"},
+    {"name":"Bad Bunny","group":"Reggaeton","value":90,"colname":"level3"},
+    {"name":"Bad Bunny","group":"Reggaeton","value":85,"colname":"level3"},
+    {"name":"Bad Bunny","group":"Reggaeton","value":85,"colname":"level3"},
+    {"name":"Bad Bunny","group":"Reggaeton","value":83,"colname":"level3"},
+    {"name":"Bad Bunny","group":"Reggaeton","value":83,"colname":"level3"},
+    {"name":"Farruko","group":"Reggaeton","value":90,"colname":"level3"},
+    {"name":"Justin Quiles","group":"Reggaeton","value":88,"colname":"level3"},
+    {"name":"Justin Quiles","group":"Reggaeton","value":85,"colname":"level3"},
+    {"name":"KAROL G","group":"Reggaeton","value":95,"colname":"level3"},
+    {"name":"KAROL G","group":"Reggaeton","value":88,"colname":"level3"},
+    {"name":"Maluma","group":"Reggaeton","value":87,"colname":"level3"}
+  ]
+  ,"colname":"level2"},
+
+  {"name":"boss3","children":
+  [
+    {"name":"Ariana Grande","group":"Pop","value":96,"colname":"level3"},
+    {"name":"Ariana Grande","group":"Pop","value":94,"colname":"level3"},
+    {"name":"Ava Max","group":"Pop","value":85,"colname":"level3"},
+    {"name":"Billie Eilish","group":"Pop","value":94,"colname":"level3"},
+    {"name":"blackbear","group":"Pop","value":85,"colname":"level3"},
+    {"name":"BTS","group":"Pop","value":91,"colname":"level3"},
+    {"name":"BTS","group":"Pop","value":83,"colname":"level3"},
+    {"name":"Camilo","group":"Pop","value":90,"colname":"level3"},
+    {"name":"Doja Cat","group":"Pop","value":83,"colname":"level3"},
+    {"name":"Dua Lipa","group":"Pop","value":85,"colname":"level3"},
+    {"name":"Ed Sheeran","group":"Pop","value":90,"colname":"level3"},
+    {"name":"Jason Derulo","group":"Pop","value":89,"colname":"level3"},
+    {"name":"Noah Cyrus","group":"Pop","value":84,"colname":"level3"},
+    {"name":"Pink Sweat$","group":"Pop","value":86,"colname":"level3"},
+    {"name":"Sam Smith","group":"Pop","value":83,"colname":"level3"},
+    {"name":"Sara Kays","group":"Pop","value":83,"colname":"level3"},
+    {"name":"SZA","group":"Pop","value":91,"colname":"level3"},
+    {"name":"Tate McRae","group":"Pop","value":93,"colname":"level3"}
+  ]
+  ,"colname":"level2"}
+
+  ]
+  ,"name":"Top40-2020"}
