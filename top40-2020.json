@@ -4,50 +4,61 @@
 
   {"name":"boss1","children":
   [
-    {"name":"DaBaby","group":"R&B","value":83,"colname":"level3"},
-    {"name":"The Kid LAROI","group":"R&B","value":94,"colname":"level3"},
-    {"name":"The Kid LAROI","group":"R&B","value":85,"colname":"level3"},
-    {"name":"The Kid LAROI","group":"R&B","value":83,"colname":"level3"}
+    {"name":"Anuel AA","group":"Reggaeton","value":78,"colname":"level3"},
+    {"name":"Bad Bunny","group":"Reggaeton","value":80.526316,"colname":"level3"},
+    {"name":"Farruko","group":"Reggaeton","value":90,"colname":"level3"},
+    {"name":"Justin Quiles","group":"Reggaeton","value":86.5,"colname":"level3"},
+    {"name":"KAROL G","group":"Reggaeton","value":91.5,"colname":"level3"},
+    {"name":"Maluma","group":"Reggaeton","value":87,"colname":"level3"},
   ]
   ,"colname":"level2"},
 
   {"name":"boss2","children":
   [
-    {"name":"mister_e","group":"C","value":14,"colname":"level3"},
-    {"name":"Bad Bunny","group":"Reggaeton","value":90,"colname":"level3"},
-    {"name":"Bad Bunny","group":"Reggaeton","value":85,"colname":"level3"},
-    {"name":"Bad Bunny","group":"Reggaeton","value":85,"colname":"level3"},
-    {"name":"Bad Bunny","group":"Reggaeton","value":83,"colname":"level3"},
-    {"name":"Bad Bunny","group":"Reggaeton","value":83,"colname":"level3"},
-    {"name":"Farruko","group":"Reggaeton","value":90,"colname":"level3"},
-    {"name":"Justin Quiles","group":"Reggaeton","value":88,"colname":"level3"},
-    {"name":"Justin Quiles","group":"Reggaeton","value":85,"colname":"level3"},
-    {"name":"KAROL G","group":"Reggaeton","value":95,"colname":"level3"},
-    {"name":"KAROL G","group":"Reggaeton","value":88,"colname":"level3"},
-    {"name":"Maluma","group":"Reggaeton","value":87,"colname":"level3"}
+    {"name":"A Camp","group":"Latin","value":6,"colname":"level3"},
+    {"name":"Dosem","group":"Latin","value":19,"colname":"level3"},
+    {"name":"Jerry Di","group":"Latin","value":86,"colname":"level3"},
+    {"name":"Myke Towers","group":"Latin","value":80,"colname":"level3"},
+    {"name":"Sono","group":"Latin","value":5.857143,"colname":"level3"}
   ]
   ,"colname":"level2"},
 
   {"name":"boss3","children":
   [
-    {"name":"Ariana Grande","group":"Pop","value":96,"colname":"level3"},
-    {"name":"Ariana Grande","group":"Pop","value":94,"colname":"level3"},
-    {"name":"Ava Max","group":"Pop","value":85,"colname":"level3"},
-    {"name":"Billie Eilish","group":"Pop","value":94,"colname":"level3"},
-    {"name":"blackbear","group":"Pop","value":85,"colname":"level3"},
-    {"name":"BTS","group":"Pop","value":91,"colname":"level3"},
-    {"name":"BTS","group":"Pop","value":83,"colname":"level3"},
-    {"name":"Camilo","group":"Pop","value":90,"colname":"level3"},
-    {"name":"Doja Cat","group":"Pop","value":83,"colname":"level3"},
-    {"name":"Dua Lipa","group":"Pop","value":85,"colname":"level3"},
-    {"name":"Ed Sheeran","group":"Pop","value":90,"colname":"level3"},
-    {"name":"Jason Derulo","group":"Pop","value":89,"colname":"level3"},
-    {"name":"Noah Cyrus","group":"Pop","value":84,"colname":"level3"},
-    {"name":"Pink Sweat$","group":"Pop","value":86,"colname":"level3"},
-    {"name":"Sam Smith","group":"Pop","value":83,"colname":"level3"},
-    {"name":"Sara Kays","group":"Pop","value":83,"colname":"level3"},
-    {"name":"SZA","group":"Pop","value":91,"colname":"level3"},
-    {"name":"Tate McRae","group":"Pop","value":93,"colname":"level3"}
+    {"name":"$NOT","group":"R&B","value":77,"colname":"level3"},
+    {"name":"2 Chainz","group":"R&B","value":73,"colname":"level3"},
+    {"name":"2KBABY","group":"R&B","value":70,"colname":"level3"},
+    {"name":"Baby Keem","group":"R&B","value":69,"colname":"level3"},
+    {"name":"Big Sean","group":"R&B","value":68,"colname":"level3"},
+    {"name":"Cordae","group":"R&B","value":72,"colname":"level3"},
+    {"name":"DaBaby","group":"R&B","value":77,"colname":"level3"},
+    {"name":"Daisha McBride","group":"R&B","value":5,"colname":"level3"},
+    {"name":"Eminem","group":"R&B","value":75,"colname":"level3"},
+    {"name":"Eric Reprid","group":"R&B","value":72,"colname":"level3"},
+    {"name":"Giveon","group":"R&B","value":73.5,"colname":"level3"},
+    {"name":"Hammock","group":"R&B","value":36,"colname":"level3"},
+    {"name":"J. Cole","group":"R&B","value":70.666667,"colname":"level3"},
+    {"name":"Jack Harlow","group":"R&B","value":71.5,"colname":"level3"},
+    {"name":"Kevo Muney","group":"R&B","value":71,"colname":"level3"},
+    {"name":"Key Glock","group":"R&B","value":69,"colname":"level3"},
+    {"name":"Kid Cudi","group":"R&B","value":68.384615,"colname":"level3"},
+    {"name":"Lil Baby","group":"R&B","value":76.4,"colname":"level3"},
+    {"name":"Lil Peep","group":"R&B","value":72.5,"colname":"level3"},
+    {"name":"Lil Yachty","group":"R&B","value":70,"colname":"level3"},
+    {"name":"Mac Miller","group":"R&B","value":76.5,"colname":"level3"},
+    {"name":"Money Man","group":"R&B","value":74,"colname":"level3"},
+    {"name":"Moneybagg Yo","group":"R&B","value":71,"colname":"level3"},
+    {"name":"NLE Choppa","group":"R&B","value":70,"colname":"level3"},
+    {"name":"Oliver Tree","group":"R&B","value":70,"colname":"level3"},
+    {"name":"Playboi Carti","group":"R&B","value":72.388889,"colname":"level3"},
+    {"name":"Princess Nokia","group":"R&B","value":74,"colname":"level3"},
+    {"name":"Remi Wolf","group":"R&B","value":73,"colname":"level3"},
+    {"name":"Ski Mask The Slump God","group":"R&B","value":70,"colname":"level3"},
+    {"name":"Tebi","group":"R&B","value":4,"colname":"level3"},
+    {"name":"The Kid LAROI","group":"R&B","value":77.888889,"colname":"level3"},
+    {"name":"Tory Lanez","group":"R&B","value":77,"colname":"level3"},
+    {"name":"YFN Lucci","group":"R&B","value":71,"colname":"level3"},
+    {"name":"Yung Gravy","group":"R&B","value":78,"colname":"level3"}
   ]
   ,"colname":"level2"}
 
