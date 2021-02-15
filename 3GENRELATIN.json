@@ -4,18 +4,18 @@
 
   {"name":"Reggaeton","children":
   [
-    {"name":"Anuel AA","group":"Reggaeton","value":78,"colname":"level3"},
-    {"name":"Bad Bunny","group":"Reggaeton","value":80.526316,"colname":"level3"},
-    {"name":"Farruko","group":"Reggaeton","value":90,"colname":"level3"},
-    {"name":"Justin Quiles","group":"Reggaeton","value":86.5,"colname":"level3"},
-    {"name":"KAROL G","group":"Reggaeton","value":91.5,"colname":"level3"},
-    {"name":"Maluma","group":"Reggaeton","value":87,"colname":"level3"}
+    {"name":"Anuel AA","group":"Reggaeton","value":68,"colname":"level3"},
+    {"name":"Bad Bunny","group":"Reggaeton","value":81,"colname":"level3"},
+    {"name":"Farruko","group":"Reggaeton","value":87,"colname":"level3"},
+    {"name":"Justin Quiles","group":"Reggaeton","value":83,"colname":"level3"},
+    {"name":"KAROL G","group":"Reggaeton","value":95,"colname":"level3"},
+    {"name":"Maluma","group":"Reggaeton","value":81,"colname":"level3"},
   ]
   ,"colname":"level2"},
 
   {"name":"Dance","children":
   [
-    {"name":"Cut Copy","group":"Dance","value":11,"colname":"level3"},
+    {"name":"C.Copy","group":"Dance","value":11,"colname":"level3"},
     {"name":"The Presets","group":"Dance","value":34,"colname":"level3"}
   ]
   ,"colname":"level2"},
@@ -26,7 +26,7 @@
     {"name":"Dosem","group":"Latin","value":19,"colname":"level3"},
     {"name":"Jerry Di","group":"Latin","value":86,"colname":"level3"},
     {"name":"Myke Towers","group":"Latin","value":80,"colname":"level3"},
-    {"name":"Sono","group":"Latin","value":6,"colname":"level3"}
+    {"name":"Sono","group":"Latin","value":26,"colname":"level3"}
   ]
   ,"colname":"level2"}
 
