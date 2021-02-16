@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+
+<!-- Google fonts reference-->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap" rel="stylesheet">
+
+<!-- Connecting with D3 library-->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+
+
+<style>
+/*Defining chart stylings*/
+
+rect {
+  fill:blue;
+  stroke:#A4BF7A;
+  stroke-dasharray:3;
+  stroke-width:30;
+  fill-opacity:0.7;
+}
+
+line {
+  stroke:black;
+  stroke-width:10;
+  opacity:0.8;
+}
+
+text {
+  font-family:'Montserrat Alternates',sans-serif;
+  font-size:30px;
+  font-weight:700;
+  fill:#D9C148;
+}
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<script>
+var svg = d3.select('#test')
+    .styles({
+      'width': '100px',
+      'height': '100px',
+      'background-color': 'lightgreen'
+    })
+
+
+<div id="test"></div>
+
+
+</script>
+
+
+<script>
+
+//Container
+var svg = d3.select("body")
+    .append("svg")
+    .attr("width", 1000)
+    .attr("height",1000);
+
+//Drawing a rect
+var rect = d3.select("svg")
+    .append("rect")
+    .attr("x", 50)
+    .attr("y", 50)
+    .attr("width", 500)
+    .attr("height", 100);
+
+//Drawing a line
+var line = d3.select("svg")
+    .append("line")
+    .attr("x1", 60)
+    .attr("x2", 550)
+    .attr("y1", 100)
+    .attr("y2", 100);
+
+
+//Drawing a text
+d3.selectAll("svg").attr("fill", "red")
+
+
+var text = d3.select("svg")
+    .append("text")
+    .attr("x", 85)
+    .attr("y", 110)
+    .text("ENAMORADO DE DATAVIZ")
+
+</script>
+</body>
+</html>
